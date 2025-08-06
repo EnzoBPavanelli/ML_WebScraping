@@ -21,12 +21,14 @@ Criar um sistema automatizado para:
 ## Estrutura do Projeto
 
 mercadolivre/
-├── raspagem.py   # Script principal de raspagem
-├── telegram_bot.py   # Envio de mensagens via Telegram
-├── teste1.py   # Script auxiliar de testes
-├── ids_enviados.txt  
-├── links_enviados.txt 
-└── pycache   
+
+├── raspagem.py            
+├── telegram_bot.py              
+├── teste1.py      
+├── ids_enviados.py         
+├── links_enviados.py             
+├── pycache.py             
+
 
 ## Como Funciona
 
